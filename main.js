@@ -1,8 +1,8 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-const token = '5824682629:AAEESg_yUlWXKIhHZ8hb0FGv9kBSr7rsLyI';
-const sourceChatId = '-1001658917150'; 
-const targetChatId = '-1001819375133'; 
+const token = '5904587129:AAEaVyxVpbJyStR5pQ69S-PkShXvYVi7AQU';
+const sourceChatId = -1001895790577; 
+const targetChatId = -1001845390420; 
 
 const bot = new TelegramBot(token, {polling: true});
 
